@@ -3,7 +3,7 @@ git config --global user.name <username>
 git config --global user.email <email>
 git log
 git commit
-git add 
+git add .
 git commit -m "msessage"
 git push origin <branch name>
 git clone
